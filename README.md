@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1916" height="1036" alt="image" src="https://github.com/user-attachments/assets/eb10ac93-b580-4786-bb3d-b41d7d5774d5" />
+
+
+### Name:  Naveen Kumar S
+### Register Number: 212224040214
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
